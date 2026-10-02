@@ -19,9 +19,6 @@ An AI-powered travel planner that creates a personalised, day-by-day itinerary f
 10. [Run the App](#run-the-app)
 11. [Screenshots](#screenshots)
 12. [Future Scope](#future-scope)
-13. [Team](#team)
-
----
 
 ## Project Overview
 Planning a trip usually means searching many websites and blogs. **AI Travel Planner** brings this into one simple app. You enter where you want to go, for how many days, your budget and what you enjoy. The app finds matching places and the LLM arranges them into a clear, day-wise plan.
