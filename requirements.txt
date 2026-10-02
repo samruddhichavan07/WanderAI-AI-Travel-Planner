@@ -1,0 +1,13 @@
+# Starter list - verify against the imports in your own code (see steps below).
+streamlit
+langchain
+langchain-community
+chromadb
+wikipedia
+requests
+
+# Add these ONLY if your code imports them:
+# langchain-ollama
+# langchain-chroma
+# python-dotenv
+# pandas

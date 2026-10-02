@@ -1,0 +1,53 @@
+place_name,city,country,category,rating,cost_usd,description
+Eiffel Tower,Paris,France,Historical,4.7,30,Iconic iron lattice tower built in 1889 offering panoramic views of Paris from three levels.
+Louvre Museum,Paris,France,Cultural,4.7,20,The world's largest art museum housing the Mona Lisa and thousands of historic artworks.
+Great Wall of China,Beijing,China,Historical,4.8,10,Ancient fortification spanning thousands of miles built to protect against invasions.
+Forbidden City,Beijing,China,Historical,4.7,10,Massive imperial palace complex that served as home to Chinese emperors for centuries.
+Machu Picchu,Cusco,Peru,Historical,4.9,45,"Ancient Incan citadel set high in the Andes Mountains, a UNESCO World Heritage Site."
+Colosseum,Rome,Italy,Historical,4.8,18,"Ancient amphitheater in Rome once used for gladiator contests, an icon of the Roman Empire."
+Vatican Museums,Vatican City,Vatican City,Cultural,4.7,20,Home to the Sistine Chapel and an extensive collection of art amassed by the Catholic Church.
+Leaning Tower of Pisa,Pisa,Italy,Historical,4.5,20,"Freestanding bell tower famous for its unintended tilt, completed in 1399."
+Sagrada Familia,Barcelona,Spain,Cultural,4.8,28,Antoni Gaudi's unfinished basilica renowned for its unique architecture and design.
+Statue of Liberty,New York,USA,Historical,4.7,24,"Iconic copper statue gifted by France, symbolizing freedom and democracy since 1886."
+Grand Canyon,Arizona,USA,Nature,4.9,35,"Massive natural canyon carved by the Colorado River, one of the world's great natural wonders."
+Times Square,New York,USA,Cultural,4.5,0,Bustling commercial hub known for its bright billboards and Broadway theaters.
+Golden Gate Bridge,San Francisco,USA,Historical,4.8,0,"Famous suspension bridge and symbol of San Francisco, completed in 1937."
+Niagara Falls,Ontario,Canada,Nature,4.7,20,"Massive waterfalls on the border of Canada and the USA, popular for boat tours."
+Christ the Redeemer,Rio de Janeiro,Brazil,Historical,4.7,15,Art Deco statue of Jesus Christ overlooking Rio de Janeiro from Corcovado mountain.
+Iguazu Falls,Foz do Iguacu,Brazil,Nature,4.9,25,"One of the largest waterfall systems in the world, spanning the Brazil-Argentina border."
+Pyramids of Giza,Giza,Egypt,Historical,4.8,15,"Ancient Egyptian pyramids including the Great Pyramid, one of the Seven Wonders of the Ancient World."
+Sphinx,Giza,Egypt,Historical,4.6,10,Limestone statue of a mythical creature with a lion's body and human head near the Giza pyramids.
+Burj Khalifa,Dubai,UAE,Cultural,4.7,40,"The world's tallest building, offering observation decks with panoramic desert and city views."
+Petra,Ma'an,Jordan,Historical,4.9,70,"Ancient city carved into rose-colored rock, a UNESCO World Heritage Site and New Wonder of the World."
+Taj Mahal,Agra,India,Historical,4.8,15,"Ivory-white marble mausoleum built by Mughal emperor Shah Jahan, a UNESCO World Heritage Site."
+Angkor Wat,Siem Reap,Cambodia,Historical,4.8,37,"Largest religious monument in the world, originally built as a Hindu temple complex."
+Mount Fuji,Honshu,Japan,Nature,4.7,0,"Japan's tallest and most iconic volcano, sacred in Japanese culture and popular for climbing."
+Fushimi Inari Shrine,Kyoto,Japan,Cultural,4.7,0,Famous Shinto shrine known for its thousands of vibrant red torii gates.
+Sydney Opera House,Sydney,Australia,Cultural,4.7,25,Iconic performing arts venue with a distinctive shell-like architectural design.
+Great Barrier Reef,Queensland,Australia,Nature,4.8,150,"World's largest coral reef system, popular for snorkeling and diving."
+Santorini,Santorini,Greece,Nature,4.8,0,"Picturesque island famous for white-washed buildings, blue domes, and stunning sunsets."
+Acropolis of Athens,Athens,Greece,Historical,4.7,20,"Ancient citadel featuring the Parthenon, symbolizing classical Greek civilization."
+Stonehenge,Wiltshire,United Kingdom,Historical,4.5,25,"Prehistoric monument of massive standing stones, believed to date back over 4000 years."
+Buckingham Palace,London,United Kingdom,Cultural,4.5,35,"Official residence of the British monarch, known for the Changing of the Guard ceremony."
+Big Ben,London,United Kingdom,Historical,4.6,0,"Iconic clock tower at the Houses of Parliament, one of London's most recognized landmarks."
+Neuschwanstein Castle,Bavaria,Germany,Historical,4.7,17,Fairytale-style 19th century castle that inspired Disney's Sleeping Beauty Castle.
+Brandenburg Gate,Berlin,Germany,Historical,4.6,0,Neoclassical monument symbolizing German reunification and a former city gate.
+Amsterdam Canals,Amsterdam,Netherlands,Cultural,4.6,20,Historic 17th century canal network forming a UNESCO World Heritage Site.
+Blue Mosque,Istanbul,Turkiye,Cultural,4.7,0,Ottoman-era mosque famous for its blue interior tiles and six minarets.
+Hagia Sophia,Istanbul,Turkiye,Historical,4.7,25,"Former Byzantine cathedral and Ottoman mosque, now a museum showcasing centuries of history."
+Cappadocia,Nevsehir,Turkiye,Nature,4.9,150,Region famous for unique rock formations and hot air balloon rides at sunrise.
+Dead Sea,Sowayma,Jordan,Nature,4.6,20,Hypersaline lake known for its extreme buoyancy and mineral-rich mud.
+Table Mountain,Cape Town,South Africa,Nature,4.8,20,"Flat-topped mountain overlooking Cape Town, accessible via cable car."
+Victoria Falls,Livingstone,Zambia,Nature,4.9,30,"One of the world's largest waterfalls, located on the Zambezi River."
+Serengeti National Park,Serengeti,Tanzania,Nature,4.9,70,Famous safari destination known for the annual wildebeest migration.
+Marina Bay Sands,Singapore,Singapore,Cultural,4.6,25,Iconic hotel and resort with a rooftop infinity pool overlooking the Singapore skyline.
+Petronas Towers,Kuala Lumpur,Malaysia,Cultural,4.6,25,"Twin skyscrapers that were once the tallest buildings in the world, with a sky bridge."
+Ha Long Bay,Quang Ninh,Vietnam,Nature,4.8,25,"Scenic bay dotted with thousands of limestone karsts and islands, a UNESCO World Heritage Site."
+Bali Rice Terraces,Ubud,Indonesia,Nature,4.7,5,Stunning tiered rice paddies showcasing traditional Balinese irrigation systems.
+Borobudur Temple,Magelang,Indonesia,Historical,4.7,25,"World's largest Buddhist temple, built in the 9th century."
+Chichen Itza,Yucatan,Mexico,Historical,4.7,30,"Ancient Mayan city famous for the step-pyramid El Castillo, a New Wonder of the World."
+Antelope Canyon,Arizona,USA,Nature,4.9,50,Stunning slot canyon known for its wave-like sandstone walls and light beams.
+Banff National Park,Alberta,Canada,Nature,4.9,0,Canada's oldest national park featuring turquoise lakes and the Canadian Rockies.
+Plitvice Lakes,Plitvicka Jezera,Croatia,Nature,4.8,40,"Series of terraced lakes connected by waterfalls, a UNESCO World Heritage Site."
+Prague Castle,Prague,Czechia,Historical,4.7,15,"Largest ancient castle complex in the world, overlooking the city of Prague."
+Charles Bridge,Prague,Czechia,Historical,4.6,0,"Historic stone bridge crossing the Vltava River, lined with baroque statues."
