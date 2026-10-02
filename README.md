@@ -17,8 +17,6 @@ An AI-powered travel planner that creates a personalised, day-by-day itinerary f
 8. [Installation](#installation)
 9. [Ollama Setup](#ollama-setup)
 10. [Run the App](#run-the-app)
-11. [Screenshots](#screenshots)
-12. [Future Scope](#future-scope)
 
 ## Project Overview
 Planning a trip usually means searching many websites and blogs. **AI Travel Planner** brings this into one simple app. You enter where you want to go, for how many days, your budget and what you enjoy. The app finds matching places and the LLM arranges them into a clear, day-wise plan.
@@ -141,23 +139,4 @@ Ollama lets you run LLMs on your own computer.
 streamlit run app.py
 ```
 Your browser opens the app (usually at `http://localhost:8501`).
-
-## Screenshots
-> Add your own screenshots in a `screenshots/` folder and link them here.
-
-> **Home / Plan a Trip page** - screenshot placeholder
->
-> **Generated itinerary** - screenshot placeholder
->
-> **Explore Destinations page** - screenshot placeholder
-
-Example (use after adding the image): `![Home page](screenshots/home.png)`
-
-## Future Scope
-- Real-time weather information in the plan
-- Map and route view
-- Support for more destinations and larger datasets
-- Voice input and multiple languages
-- Saving and sharing trips
-
 
